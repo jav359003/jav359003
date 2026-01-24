@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Javin Ahuja<br><br>I’m a Computer Science student at the University of Maryland, concentrating in Machine Learning. I’m passionate about software engineering, deep learning, and understanding how intelligent systems work behind the scenes.<br><br>I enjoy building backend systems and full-stack applications, and I’m currently expanding my interests in quantum computing and XR/VR development. I love working on projects that combine creativity and technical depth — anything that lets me learn something new while building something meaningful.<br><br>💡 I’m always open to collaborating on exciting projects in AI, software development, and innovative fields like XR/VR and quantum computing.
 
 
