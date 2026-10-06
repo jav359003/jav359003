@@ -1,43 +1,21 @@
 # Javin Ahuja
 
-**Software Engineer — Backend, Full-Stack, and Applied AI**
-
 [Portfolio](https://javinahuja.com) · [Résumé](https://javinahuja.com/Javin_Ahuja_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/javin-ahuja-560100237/) · [Email](mailto:javinahuja18805@gmail.com)
 
-I'm a Computer Science student at the University of Maryland (Machine Learning concentration, May 2027) who likes building systems that are measurable, reliable, and useful in production.
+I tend to start with a product problem and end up several layers down the stack.
 
-Previously, I was one of two engineers at Peptide AI. I worked across Swift/SwiftUI and Kotlin mobile flows, TypeScript/Deno services, PostgreSQL, product analytics, evaluation, and customer lifecycle automation. The app reached **14,000 downloads** and **9 million store impressions in two months**; a privacy-scoped semantic cache reduced cached response latency from **9 seconds to under 3 seconds**.
+At Peptide AI, I was one of two engineers, so the work rarely stayed in one box. I rebuilt parts of the iOS and Android experience, shipped full-stack features, worked on the data and API layer, added product analytics, and automated weekly customer emails. Along the way, I built a privacy-scoped semantic cache that brought cached responses from 9 seconds to under 3. The app reached 14,000 downloads and 9 million store impressions in two months.
 
-I'm seeking **2027 new-grad and early-career software engineering roles** in backend, full-stack, and applied AI.
+That experience shaped the kind of software I like building now: products where the model is only one part of the system. I care about what happens around it—how data moves, how behavior is evaluated, how failures become visible, and whether the whole thing is actually useful to someone.
 
-## Selected work
+## What I'm exploring now
 
-| Project | What I built | Evidence |
-| --- | --- | --- |
-| [Inspect Robots](https://github.com/robocurve/inspect-robots/pull/415) | Public operator-verdict normalization API with snapshot and regression coverage | Merged upstream in PR #415 |
-| [eSource Study Builder](https://github.com/jav359003/intake-esource-agent) | Semantic browser agent that configures clinical-study forms across different mock platforms without platform-specific code changes | 4/4 visits, 28/28 forms, 195/195 fields, 42/42 coded values, 59/59 ranges/units, and 13/13 visibility rules |
-| [Schedule of Activities Extractor](https://github.com/jav359003/intake-soa-extraction) | Provenance-aware pipeline for extracting clinical schedules from difficult PDF tables | 12/12 reference pages and 8/8 holdout pages; 28 no-API regression tests |
-| [LegalLease](https://github.com/jav359003/Legallease) | Hierarchical RAG system and a fine-tuning experiment for lease-document QA | 99.1% retrieval recall over 112 questions and 12 documents; held-out QA improved from ~35% to ~55% |
-| [AI Image Detector](https://github.com/jav359003/ai-image-detector) | CNN-based synthetic-image detector with calibration analysis and a convolution backward pass implemented in NumPy | 96.8% classification accuracy |
-| [SynthDrive](https://github.com/jav359003/synthdrive) | Full-stack workflow for turning natural-language driving scenarios into structured autonomous-vehicle simulations | Generates configurable scenarios across three 3D environments |
+I've been contributing to [Inspect Robots](https://github.com/robocurve/inspect-robots), an open-source framework for evaluating computer-use agents. My first contribution turned operator-verdict normalization into a tested public API ([PR #415](https://github.com/robocurve/inspect-robots/pull/415)). I also sent the maintainer a proposal for a backward-compatible metrics layer so evaluations can be observed and compared across runs. That part is something I want to build, not a merged feature yet.
 
-## Open source
+I'm also interested in agents that have to do real work instead of only returning an answer. That led me to build an [eSource study builder](https://github.com/jav359003/intake-esource-agent) that configures clinical-study forms across unfamiliar web platforms, and a [provenance-aware extraction pipeline](https://github.com/jav359003/intake-soa-extraction) for schedules buried in difficult protocol PDFs.
 
-My [Inspect Robots contribution](https://github.com/robocurve/inspect-robots/pull/415) promoted operator-verdict normalization into a tested public API. I also proposed a backward-compatible metrics layer for the project; that design remains under maintainer discussion and is **not presented here as shipped work**.
+I still enjoy building outside that lane. Sometimes that means a full-stack simulation tool like [SynthDrive](https://github.com/jav359003/synthdrive); other times it means implementing and testing the lower-level pieces myself, as I did with the convolution backward pass in my [AI image detector](https://github.com/jav359003/ai-image-detector).
 
-## Core stack
+Most of my work ends up somewhere between TypeScript and Python, React and mobile, APIs and Postgres, with evaluation code nearby. I care more about understanding the system than collecting frameworks.
 
-- **Languages:** TypeScript, Python, Java, JavaScript, SQL, Swift, Kotlin, C
-- **Backend and data:** FastAPI, Pydantic, Node.js, Express, Spring Boot, JPA, PostgreSQL, pgvector, MySQL, REST, GraphQL
-- **Frontend and mobile:** React, React Native, Next.js, SwiftUI
-- **AI and evaluation:** PyTorch, RAG, agent systems, LLM evaluation, FAISS, LangChain
-- **Infrastructure:** AWS, Azure, Docker, GitHub Actions, Supabase Edge Functions, Deno, Linux/Unix
-
-## How I work
-
-- Instrument first, then optimize.
-- Keep deterministic computation separate from model-generated narration.
-- Treat evaluation failures and negative results as useful engineering evidence.
-- Write down the constraints, tradeoffs, and limits—not just the demo.
-
-If you're building a technically ambitious product and care about engineers who can move across the stack, I'd be glad to talk.
+I'm studying Computer Science at the University of Maryland and graduate in May 2027. I'm looking for a team where I can keep working this way: close to the product, willing to cross layers, and serious about turning ambitious ideas into software people can use.
