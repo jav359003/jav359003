@@ -1,16 +1,43 @@
-# About Me:
-👋 Hi, I’m Javin Ahuja<br><br>I’m a Computer Science student at the University of Maryland, concentrating in Machine Learning. I’m passionate about software engineering, deep learning, and understanding how intelligent systems work behind the scenes.<br><br>I enjoy building backend systems and full-stack applications, and I’m currently expanding my interests in quantum computing and XR/VR development. I love working on projects that combine creativity and technical depth — anything that lets me learn something new while building something meaningful.<br><br>💡 I’m always open to collaborating on exciting projects in AI, software development, and innovative fields like XR/VR and quantum computing.
+# Javin Ahuja
 
+**Software Engineer — Backend, Full-Stack, and Applied AI**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=jav359003&theme=dark&hide_border=false)<br/>
+[Portfolio](https://javinahuja.com) · [Résumé](https://javinahuja.com/Javin_Ahuja_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/javin-ahuja-560100237/) · [Email](mailto:javinahuja2005@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jav359003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a Computer Science student at the University of Maryland (Machine Learning concentration, May 2027) who likes building systems that are measurable, reliable, and useful in production.
 
----
-[![](https://visitcount.itsvg.in/api?id=jav359003&icon=0&color=0)](https://visitcount.itsvg.in)
+Previously, I was one of two engineers at Peptide AI. I worked across Swift/SwiftUI and Kotlin mobile flows, TypeScript/Deno services, PostgreSQL, product analytics, evaluation, and customer lifecycle automation. The app reached **14,000 downloads** and **9 million store impressions in two months**; a privacy-scoped semantic cache reduced cached response latency from **9 seconds to under 3 seconds**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm seeking **2027 new-grad and early-career software engineering roles** in backend, full-stack, and applied AI.
+
+## Selected work
+
+| Project | What I built | Evidence |
+| --- | --- | --- |
+| [Inspect Robots](https://github.com/robocurve/inspect-robots/pull/415) | Public operator-verdict normalization API with snapshot and regression coverage | Merged upstream in PR #415 |
+| [eSource Study Builder](https://github.com/jav359003/intake-esource-agent) | Semantic browser agent that configures clinical-study forms across different mock platforms without platform-specific code changes | 4/4 visits, 28/28 forms, 195/195 fields, 42/42 coded values, 59/59 ranges/units, and 13/13 visibility rules |
+| [Schedule of Activities Extractor](https://github.com/jav359003/intake-soa-extraction) | Provenance-aware pipeline for extracting clinical schedules from difficult PDF tables | 12/12 reference pages and 8/8 holdout pages; 28 no-API regression tests |
+| [LegalLease](https://github.com/jav359003/Legallease) | Hierarchical RAG system and a fine-tuning experiment for lease-document QA | 99.1% retrieval recall over 112 questions and 12 documents; held-out QA improved from ~35% to ~55% |
+| [AI Image Detector](https://github.com/jav359003/ai-image-detector) | CNN-based synthetic-image detector with calibration analysis and a convolution backward pass implemented in NumPy | 96.8% classification accuracy |
+| [SynthDrive](https://github.com/jav359003/synthdrive) | Full-stack workflow for turning natural-language driving scenarios into structured autonomous-vehicle simulations | Generates configurable scenarios across three 3D environments |
+
+## Open source
+
+My [Inspect Robots contribution](https://github.com/robocurve/inspect-robots/pull/415) promoted operator-verdict normalization into a tested public API. I also proposed a backward-compatible metrics layer for the project; that design remains under maintainer discussion and is **not presented here as shipped work**.
+
+## Core stack
+
+- **Languages:** TypeScript, Python, Java, JavaScript, SQL, Swift, Kotlin, C
+- **Backend and data:** FastAPI, Pydantic, Node.js, Express, Spring Boot, JPA, PostgreSQL, pgvector, MySQL, REST, GraphQL
+- **Frontend and mobile:** React, React Native, Next.js, SwiftUI
+- **AI and evaluation:** PyTorch, RAG, agent systems, LLM evaluation, FAISS, LangChain
+- **Infrastructure:** AWS, Azure, Docker, GitHub Actions, Supabase Edge Functions, Deno, Linux/Unix
+
+## How I work
+
+- Instrument first, then optimize.
+- Keep deterministic computation separate from model-generated narration.
+- Treat evaluation failures and negative results as useful engineering evidence.
+- Write down the constraints, tradeoffs, and limits—not just the demo.
+
+If you're building a technically ambitious product and care about engineers who can move across the stack, I'd be glad to talk.
