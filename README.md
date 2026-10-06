@@ -2,7 +2,7 @@
 
 **Software Engineer — Backend, Full-Stack, and Applied AI**
 
-[Portfolio](https://javinahuja.com) · [Résumé](https://javinahuja.com/Javin_Ahuja_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/javin-ahuja-560100237/) · [Email](mailto:javinahuja2005@gmail.com)
+[Portfolio](https://javinahuja.com) · [Résumé](https://javinahuja.com/Javin_Ahuja_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/javin-ahuja-560100237/) · [Email](mailto:javinahuja18805@gmail.com)
 
 I'm a Computer Science student at the University of Maryland (Machine Learning concentration, May 2027) who likes building systems that are measurable, reliable, and useful in production.
 
